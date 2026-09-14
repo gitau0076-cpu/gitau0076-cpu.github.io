@@ -7,11 +7,15 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- [Add others, e.g., "Python", "HTML/CSS", "Machine Learning"]
+- HTML/CSS
+- JavaScript
+- React
+- Node.js/Express backend
+- Database
 
 ## Current Projects
-- [Project name](link) — short description
+- https://github.com/gitau0076-cpu/Gitau0076 — Personal Portfolio
 
 ## How to Reach Me
-- Email: [your email]
-- LinkedIn: [your LinkedIn profile link]
+- Email: nyanjihia98@gmail.com
+- LinkedIn: https://www.linkedin.com/in/florence-gitau-480874358
