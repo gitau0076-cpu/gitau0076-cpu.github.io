@@ -1,4 +1,4 @@
-# Hi, I'm [Florence Gitau]
+# Hi, I'm Florence Gitau.
 
 ## About Me
 - I'm currently learning [what you're studying, e.g., "Computer Science at University of Nairobi"].
