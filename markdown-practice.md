@@ -39,5 +39,5 @@
   </tr>
 </table>
 <h1>Code Block</h1>
-  '''python
+  ```python
   print("Hello, Citizens")
