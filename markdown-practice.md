@@ -41,3 +41,5 @@
 <h1>Code Block</h1>
   ```python
   print("Hello, Citizens")```
+  <h1>Blockquote</h1>
+  <blockquote>Life is an exam where everyone gets a different question paper.</blockquote>
