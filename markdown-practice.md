@@ -19,4 +19,22 @@
    <li>git commit -m "first Commit"</li>
    <li>git push -u origin main</li>
    <li>git status</li>
-<ol>
+</ol>
+<h1>Tables</h1>
+<table>
+  <tr>
+    <th>Tool</th>
+    <th>Purpose</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>MYSQL</td>
+    <td>data base</td>
+    <td><a href="https://www.mysql.com/downloads/">MYSQL link</a></td>
+  </tr>
+  <tr>
+    <td>Node.js/Express backend</td>
+    <td>development</td>
+    <td><a href="https://nodejs.org/en/download">node link</a></td>
+  </tr>
+</table>
